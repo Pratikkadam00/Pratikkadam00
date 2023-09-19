@@ -5,7 +5,7 @@
 <img align="right" width="550" alt="Full-Stack"  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikkadam00&label=Profile%20views&color=0e75b6&style=flat" alt="pratikkadam00" /> </p>
 
-- 🔭 I’m currently working on **Supabase opensource**
+- 🔭 I’m currently working on **MERN Stack Technology**
 
 - 📫 How to reach me **pratikadam00@gmail.com**
 
