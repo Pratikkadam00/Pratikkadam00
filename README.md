@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Pratik</h1>
 <h3 align="center">Software Engineer from India.</h3>
 
-
 <img align="right" width="550" alt="Full-Stack"  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikkadam00&label=Profile%20views&color=0e75b6&style=flat" alt="pratikkadam00" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack Technology**
+- 🔭 I’m currently working on **Supabase opensource**
 
 - 📫 How to reach me **pratikadam00@gmail.com**
 
 - ⚡ Fun fact **I'am A Rider!**
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pratikkadam00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratikkadam00/" height="30" width="40" /></a>
 </p>
