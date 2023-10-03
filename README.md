@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 <img align="right" width="550" alt="Full-Stack"  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
-<a href="pratikadam00@gmail.com">Email : pratikadam00@gmail.com</a>
+<a href="mailto:pratikadam00@gmail.com">Email Me</a></br>
 🔭 I’m currently working on LSM Web App<br>🌱 I’m currently learning MERN stack <br>💬 Ask me about React, Node<br>⚡ Fun fact I am Rider!
 
 ## 🌐 Socials:
