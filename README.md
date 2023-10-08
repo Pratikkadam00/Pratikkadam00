@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratik K </h1>
+<h1 align="center">Hi 👋, I'm Pratik</h1>
 <h3 align="center">Software Engineer</h3>
 
 <img align="right" width="550" alt="Full-Stack"  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
